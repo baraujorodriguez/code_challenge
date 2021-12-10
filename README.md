@@ -9,12 +9,15 @@ Incluindo um bom editor para conseguir trabalhar o código, assim como o Visual 
 # EXECUTANDO O PROJETO
 
 ***# Clone este repositório***
+
 $ git clone https://github.com/arturpv/donus-code-challenge
 
 ***# Acesse a pasta do projeto no terminal/cmd***
+
 $ cd Banco
 
 ***# Execute a aplicação***
+
 $ python main.py
 
 
