@@ -1,4 +1,4 @@
-# donus-code-challenge
+# Code_Challenge
 Criando uma API REST com funções referentes a gerenciamento de Contas Bancárias.
 
 Para prosseguir, importante ter instalado as seguintes ferramentas: Git, Python 3.9.
