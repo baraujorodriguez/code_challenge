@@ -10,16 +10,19 @@ Incluindo um bom editor para conseguir trabalhar o código, assim como o Visual 
 
 ***# Clone este repositório***
 
-$ git clone https://github.com/arturpv/donus-code-challenge
+$ git clone https://github.com/baraujorodriguez/code_challenge
 
-***# Acesse a pasta do projeto no terminal/cmd***
-
-$ cd Banco
+Abra o projeto no editor de preferencia
 
 ***# Execute a aplicação***
 
-$ python main.py
+Execute primeiramente a API em api.py
 
+Em seguida execute o arquivo main.py 
+
+Após isso, prossiga com seu CPF para verificação de cadastro.
+
+Feito o login, poderá ser usada a aplicação para funções que simulam ações feitas em uma conta bancária.
 
 # TECNOLOGIAS
 Ferramentas usadas no projeto:
